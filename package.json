@@ -1,6 +1,6 @@
 {
   "name": "@prelude/remote-clock",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Remote clock module.",
   "type": "module",
   "main": "./cjs/index.js",
